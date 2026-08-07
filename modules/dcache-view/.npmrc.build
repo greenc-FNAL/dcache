@@ -1,0 +1,4 @@
+cache=${PWD}/target/npm-cache
+prefix=${PWD}/target/npm-prefix
+registry=https://registry.npmjs.org/
+min-release-age=3
